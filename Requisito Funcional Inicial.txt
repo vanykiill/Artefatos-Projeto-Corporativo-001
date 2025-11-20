@@ -1,0 +1,5 @@
+[RFI-001] Funcionalidade de Login
+Status: Validado (v1.0)
+Proprietário: Analista de Requisitos
+Data de Criação: 19/11/2025
+Descrição: O sistema deve permitir que usuários autenticados acessem a área restrita após fornecerem um ID de usuário e senha válidos, conforme a política de segurança da informação (COBIT/ITIL).
